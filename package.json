@@ -1,5 +1,5 @@
 {
-  "name": "table-lite",
+  "name": "losercreates-table-lite",
   "version": "1.0.0",
   "description": "A simple package to get tables from a JSON array",
   "main": "dist/index.js",
